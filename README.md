@@ -21,12 +21,4 @@ The multimodal system combines the insights from these three modules to provide 
 
 Please refer to the respective modules for more detailed information on the datasets and the techniques used for depression analysis.
 
-#### Project Team Members
-- Aditya Sanjay Mhaske (Team Leader)
-- Atharv Nikam
-- Anjali Nair
-- Yashada Nikam
-
-### License
-This project is licensed under the [MIT License](LICENSE).
 
